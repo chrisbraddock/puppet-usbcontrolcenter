@@ -1,4 +1,4 @@
-class puppet-usbcontrolcenter (
+class usbcontrolcenter (
 ) {
   package { 'USB Control Center':
     provider => 'appdmg',
